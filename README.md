@@ -5,7 +5,8 @@ checks its anonymity\
 and print for you the list of all **WORKING PROXIES** from fastest to slowest
 
 <h2>INSTALLATION</h2>
-You need Python 3.12+ for the script to work\
+You need Python 3.12+ for the script to work
+
 Also you need to write this command in terminal:
 
 ```bash
